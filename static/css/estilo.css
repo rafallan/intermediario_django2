@@ -1,0 +1,14 @@
+body{
+    background-color: #eeeeee;
+}
+
+
+.table>tbody>tr>td{
+    vertical-align: middle;
+
+}
+
+.table>thead>tr>th{
+    background-color: #0f0f0f;
+    color: #ffffff;
+}
